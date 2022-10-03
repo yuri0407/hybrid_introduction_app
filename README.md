@@ -5,6 +5,7 @@
 
 ### LINK
 [GitHub](https://yuri0407.github.io/hybrid_introduction_app)
+[Netlify](https://hybrid-introduction-app.netlify.app)
 
 ### ABOUT
 동의과학대학교 컴퓨터정보과에 대한 소개 내용이 담겨있는 앱입니다.
