@@ -4,7 +4,7 @@
 ## 컴퓨터정보과 소개 앱
 
 ### LINK
-[GitHub](https://yuri0407.github.io/hybrid_introduction_app)
+[GitHub](https://yuri0407.github.io/hybrid_introduction_app)   
 [Netlify](https://hybrid-introduction-app.netlify.app)
 
 ### ABOUT
